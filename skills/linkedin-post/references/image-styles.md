@@ -37,3 +37,4 @@ All **on-image copy must be English**. Captions/posts stay bilingual outside the
 - Crowding > ~12 text labels on one frame
 - Purple-on-white default cliché unless the content demands it
 - **AI-template look:** perfect centering, identical pill rows, fake handwriting fonts, glossy numbered orbs, stock sticky-note clipart, Midjourney infographic chrome
+- **Violent / military / gadget metaphors on-image:** no “knife”, “army”, “war”, “weapon”, “Swiss Army”, etc. Prefer concrete system words (module, boundary, app, deploy).

@@ -1,34 +1,42 @@
 # Voice
 
+## Cadência preferida (LinkedIn)
+
+Espelhar posts técnicos fortes no feed:
+
+1. **Hook** com contraste (problema nomeado; CAPS só em 1–3 palavras-chave)
+2. **Resultado ruim** em 1–2 linhas
+3. **Fix** em uma frase clara
+4. **Here’s how it works / Como funciona** com seções numeradas (título curto + 1–3 frases)
+5. **Close** com consequência concreta (escala, controle, legibilidade). Sem pergunta binária de engajamento
+
+PT-BR e EN devem ter a **mesma estrutura e densidade**.
+
 ## PT-BR
 
-- Direto, técnico, como alguém explicaria no Slack ou numa daily.
+- Direto, técnico, ritmado.
 - Frases curtas. Verbos concretos.
-- Preferir `-` em listas. Evitar `→` em cascata e travessão longo (`—`).
-- Fechar com insight concreto, não com pergunta binária de engajamento.
+- Preferir `-` em listas internas. Evitar `→` em cascata e travessão `—`.
+- Pode usar CAPS com parcimônia no hook (como no inglês de referência).
 
 ## English
 
-- Same structure and density as PT-BR (don’t drop the teaching bullets).
-- Natural senior engineer tone. No corporate fluff.
-- Keep proper nouns / file names as-is (`AGENTS.md`, CI, Judge).
+- Same skeleton as PT-BR.
+- Senior, punchy, no corporate fluff.
+- Keep proper nouns as-is (`AGENTS.md`, CI, Nx).
 
 ## Shared — substance first
 
 - One idea per post.
-- Define jargon once, briefly.
-- Body must teach: what it is, how it works, what changes.
-- CTA opcional e raro. Se existir, não pode ser o payload do post.
+- Numbered sections must teach mechanism, not slogans.
+- CTA raro. Se existir, não carrega o post.
 
 ## Anti-patterns (rewrite if present)
 
 | Bad | Why | Fix |
 |---|---|---|
-| Travessão `—` e setas `→` em todo parágrafo | Cara de texto gerado | Vírgula, ponto, hífen `-`, frases normais |
-| “Regra prática: A → B → C → D” numa linha só | Template de framework | 2–3 frases curtas, uma situação por vez |
-| “No seu time, X ou Y?” / “Agree?” | CTA de LinkedIn genérico | Fechar com consequência concreta |
-| “In AI era, everything changes…” | Vago / motivacional | Mecanismo nomeado |
-| “Here are 5 tips to 10x…” sem conteúdo | Clickbait | Cada bullet ensina um critério ou passo |
-| Hook só, sem definição | Teaser vazio | Contexto define o conceito |
-| “Comment / link in bio / DM me” | Spam | Cortar |
-| Buzzwords (“agentic synergy at scale”) | Vazio | Peças nomeadas (guides, sensors, gates) |
+| Travessão `—` e setas `→` em todo parágrafo | Cara de texto gerado | Vírgula, ponto, hífen `-` |
+| “Regra prática: A → B → C” numa linha | Template | Seções numeradas com frases |
+| “No seu time, X ou Y?” / “Agree?” | CTA genérico | Close com consequência |
+| Motivacional vazio / teaser sem payload | Sem ensino | Hook + mecanismo |
+| Buzzwords sem peças nomeadas | Vazio | Layers, modules, gates, boundaries |
