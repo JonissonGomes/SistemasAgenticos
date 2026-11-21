@@ -7,7 +7,7 @@ Repositório central para documentação, estudos, skills e projetos sobre siste
 | Pasta | Conteúdo |
 |---|---|
 | [`docs/`](docs/) | Documentação consolidada: conceitos, arquiteturas, padrões e referências |
-| [`estudos/`](estudos/) | Anotações, experimentos e artigos lidos |
+| [`estudos/`](estudos/) | Anotações, experimentos, artigos e posts LinkedIn |
 | [`skills/`](skills/) | Skills reutilizáveis (instruções + recursos) |
 | [`projetos/`](projetos/) | Projetos individuais, cada um autocontido |
 | [`corner-cases/`](corner-cases/) | Casos extremos e falhas catalogadas, para consulta futura |
@@ -22,7 +22,7 @@ Repositório central para documentação, estudos, skills e projetos sobre siste
 
 | Skill | Descrição |
 |---|---|
-| _(adicione aqui)_ | |
+| [linkedin-post](skills/linkedin-post/) | Posts LinkedIn (PT-BR + EN) com imagem em inglês e estilo variável |
 
 ## Por onde começar
 
@@ -30,6 +30,7 @@ Repositório central para documentação, estudos, skills e projetos sobre siste
 2. [Harness: guides e sensores](docs/conceitos/harness-guides-e-sensores.md)  
 3. [Monólito modular evolutivo](docs/arquiteturas/monolito-modular-evolutivo.md)  
 4. Anotações: [`estudos/anotacoes/`](estudos/anotacoes/)
+5. Posts LinkedIn: [`estudos/linkedin/`](estudos/linkedin/)
 
 ## Como usar
 
