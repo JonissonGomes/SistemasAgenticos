@@ -24,6 +24,13 @@ Repositório central para documentação, estudos, skills e projetos sobre siste
 |---|---|
 | _(adicione aqui)_ | |
 
+## Por onde começar
+
+1. [Sistemas agênticos em escala](docs/arquiteturas/sistemas-agenticos-em-escala.md) — playbook piloto → enterprise  
+2. [Harness: guides e sensores](docs/conceitos/harness-guides-e-sensores.md)  
+3. [Monólito modular evolutivo](docs/arquiteturas/monolito-modular-evolutivo.md)  
+4. Anotações: [`estudos/anotacoes/`](estudos/anotacoes/)
+
 ## Como usar
 
 1. Novo projeto: copie `projetos/_template/` para `projetos/<nome-do-projeto>/`.
